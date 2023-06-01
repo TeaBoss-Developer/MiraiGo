@@ -25,14 +25,14 @@ var (
 	AppVersions = map[ProtocolType]*AppVersion{
 		AndroidPhone: {
 			ApkId:           "com.tencent.mobileqq",
-			AppId:           537153294,
-			SubAppId:        537153294,
+			AppId:           537118044,
+			SubAppId:        537118044,
 			AppKey:          "0S200MNJT807V3GE",
-			SortVersionName: "8.9.35.10440",
-			BuildTime:       1676531414,
+			SortVersionName: "8.8.88.7083",
+			BuildTime:       1648004515,
 			ApkSign:         []byte{0xA6, 0xB7, 0x45, 0xBF, 0x24, 0xA2, 0xC2, 0x77, 0x52, 0x77, 0x16, 0xF6, 0xF3, 0x6E, 0xB6, 0x8D},
-			SdkVersion:      "6.0.0.2535",
-			SSOVersion:      19,
+			SdkVersion:      "6.0.0.2497",
+			SSOVersion:      18,
 			MiscBitmap:      150470524,
 			SubSigmap:       0x10400,
 			MainSigMap: WLOGIN_A5 | WLOGIN_RESERVED | WLOGIN_STWEB | WLOGIN_A2 | WLOGIN_ST |
