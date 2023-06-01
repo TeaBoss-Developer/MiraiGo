@@ -3,10 +3,10 @@ package client
 import (
 	"github.com/pkg/errors"
 
-	"github.com/Mrs4s/MiraiGo/client/internal/network"
-	"github.com/Mrs4s/MiraiGo/client/pb/msg"
-	"github.com/Mrs4s/MiraiGo/internal/proto"
-	"github.com/Mrs4s/MiraiGo/message"
+	"github.com/TeaBoss-Developer/MiraiGo/client/internal/network"
+	"github.com/TeaBoss-Developer/MiraiGo/client/pb/msg"
+	"github.com/TeaBoss-Developer/MiraiGo/internal/proto"
+	"github.com/TeaBoss-Developer/MiraiGo/message"
 )
 
 // 撤回相关处理逻辑

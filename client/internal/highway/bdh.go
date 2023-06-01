@@ -9,9 +9,9 @@ import (
 	"github.com/pkg/errors"
 	"golang.org/x/sync/errgroup"
 
-	"github.com/Mrs4s/MiraiGo/binary"
-	"github.com/Mrs4s/MiraiGo/client/pb"
-	"github.com/Mrs4s/MiraiGo/internal/proto"
+	"github.com/TeaBoss-Developer/MiraiGo/binary"
+	"github.com/TeaBoss-Developer/MiraiGo/client/pb"
+	"github.com/TeaBoss-Developer/MiraiGo/internal/proto"
 )
 
 type Transaction struct {

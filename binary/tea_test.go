@@ -6,7 +6,7 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/Mrs4s/MiraiGo/utils"
+	"github.com/TeaBoss-Developer/MiraiGo/utils"
 )
 
 var testTEA = NewTeaCipher([]byte("0123456789ABCDEF"))
@@ -25,7 +25,7 @@ var sampleData = func() [][3]string {
 		{"0123456789ABCDEF", "s", "528e8b5c48300b548e94262736ebb8b7"},
 		{"0123456789ABCDEF", "long long long long long long long", "95715fab6efbd0fd4b76dbc80bd633ebe805849dbc242053b06557f87e748effd9f613f782749fb9fdfa3f45c0c26161"},
 
-		{"LXY1226    Mrs4s", "LXY Testing~", "ab20caa63f3a6503a84f3cb28f9e26b6c18c051e995d1721"},
+		{"LXY1226    TeaBoss-Developer", "LXY Testing~", "ab20caa63f3a6503a84f3cb28f9e26b6c18c051e995d1721"},
 	}
 	for i := range out {
 		c, _ := hex.DecodeString(out[i][ENC])

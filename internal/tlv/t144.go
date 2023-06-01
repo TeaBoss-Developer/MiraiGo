@@ -1,7 +1,7 @@
 package tlv
 
 import (
-	"github.com/Mrs4s/MiraiGo/binary"
+	"github.com/TeaBoss-Developer/MiraiGo/binary"
 )
 
 func T144(

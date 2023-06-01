@@ -10,15 +10,15 @@ import (
 	"github.com/fumiama/imgsz"
 	"github.com/pkg/errors"
 
-	"github.com/Mrs4s/MiraiGo/binary"
-	"github.com/Mrs4s/MiraiGo/client/internal/highway"
-	"github.com/Mrs4s/MiraiGo/client/internal/network"
-	"github.com/Mrs4s/MiraiGo/client/pb/cmd0x388"
-	highway2 "github.com/Mrs4s/MiraiGo/client/pb/highway"
-	"github.com/Mrs4s/MiraiGo/client/pb/oidb"
-	"github.com/Mrs4s/MiraiGo/internal/proto"
-	"github.com/Mrs4s/MiraiGo/message"
-	"github.com/Mrs4s/MiraiGo/utils"
+	"github.com/TeaBoss-Developer/MiraiGo/binary"
+	"github.com/TeaBoss-Developer/MiraiGo/client/internal/highway"
+	"github.com/TeaBoss-Developer/MiraiGo/client/internal/network"
+	"github.com/TeaBoss-Developer/MiraiGo/client/pb/cmd0x388"
+	highway2 "github.com/TeaBoss-Developer/MiraiGo/client/pb/highway"
+	"github.com/TeaBoss-Developer/MiraiGo/client/pb/oidb"
+	"github.com/TeaBoss-Developer/MiraiGo/internal/proto"
+	"github.com/TeaBoss-Developer/MiraiGo/message"
+	"github.com/TeaBoss-Developer/MiraiGo/utils"
 )
 
 func init() {

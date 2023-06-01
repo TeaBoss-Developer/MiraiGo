@@ -13,10 +13,10 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/Mrs4s/MiraiGo/binary"
-	"github.com/Mrs4s/MiraiGo/client/pb/richmedia"
-	"github.com/Mrs4s/MiraiGo/internal/proto"
-	"github.com/Mrs4s/MiraiGo/utils"
+	"github.com/TeaBoss-Developer/MiraiGo/binary"
+	"github.com/TeaBoss-Developer/MiraiGo/client/pb/richmedia"
+	"github.com/TeaBoss-Developer/MiraiGo/internal/proto"
+	"github.com/TeaBoss-Developer/MiraiGo/utils"
 )
 
 /* -------- GroupHonorInfo -------- */

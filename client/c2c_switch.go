@@ -3,8 +3,8 @@
 package client
 
 import (
-	"github.com/Mrs4s/MiraiGo/client/internal/network"
-	"github.com/Mrs4s/MiraiGo/client/pb/msg"
+	"github.com/TeaBoss-Developer/MiraiGo/client/internal/network"
+	"github.com/TeaBoss-Developer/MiraiGo/client/pb/msg"
 )
 
 const (

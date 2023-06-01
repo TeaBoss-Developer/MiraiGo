@@ -16,14 +16,14 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/Mrs4s/MiraiGo/binary"
-	"github.com/Mrs4s/MiraiGo/binary/jce"
-	"github.com/Mrs4s/MiraiGo/client/internal/auth"
-	"github.com/Mrs4s/MiraiGo/client/pb/msg"
-	"github.com/Mrs4s/MiraiGo/client/pb/oidb"
-	"github.com/Mrs4s/MiraiGo/internal/proto"
-	"github.com/Mrs4s/MiraiGo/message"
-	"github.com/Mrs4s/MiraiGo/utils"
+	"github.com/TeaBoss-Developer/MiraiGo/binary"
+	"github.com/TeaBoss-Developer/MiraiGo/binary/jce"
+	"github.com/TeaBoss-Developer/MiraiGo/client/internal/auth"
+	"github.com/TeaBoss-Developer/MiraiGo/client/pb/msg"
+	"github.com/TeaBoss-Developer/MiraiGo/client/pb/oidb"
+	"github.com/TeaBoss-Developer/MiraiGo/internal/proto"
+	"github.com/TeaBoss-Developer/MiraiGo/message"
+	"github.com/TeaBoss-Developer/MiraiGo/utils"
 )
 
 type (

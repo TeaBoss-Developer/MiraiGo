@@ -3,8 +3,8 @@ package network
 import (
 	"strconv"
 
-	"github.com/Mrs4s/MiraiGo/binary"
-	"github.com/Mrs4s/MiraiGo/client/internal/auth"
+	"github.com/TeaBoss-Developer/MiraiGo/binary"
+	"github.com/TeaBoss-Developer/MiraiGo/client/internal/auth"
 )
 
 // Transport is a network transport.

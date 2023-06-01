@@ -3,9 +3,9 @@ package message
 import (
 	"fmt"
 
-	"github.com/Mrs4s/MiraiGo/binary"
-	"github.com/Mrs4s/MiraiGo/client/pb/msg"
-	"github.com/Mrs4s/MiraiGo/internal/proto"
+	"github.com/TeaBoss-Developer/MiraiGo/binary"
+	"github.com/TeaBoss-Developer/MiraiGo/client/pb/msg"
+	"github.com/TeaBoss-Developer/MiraiGo/internal/proto"
 )
 
 /*

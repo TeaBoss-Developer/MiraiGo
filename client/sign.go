@@ -3,8 +3,8 @@ package client
 import (
 	"strconv"
 
-	"github.com/Mrs4s/MiraiGo/client/pb/oidb"
-	"github.com/Mrs4s/MiraiGo/internal/proto"
+	"github.com/TeaBoss-Developer/MiraiGo/client/pb/oidb"
+	"github.com/TeaBoss-Developer/MiraiGo/internal/proto"
 )
 
 // SendGroupSign 发送群聊打卡消息

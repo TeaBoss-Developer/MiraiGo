@@ -7,13 +7,13 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/Mrs4s/MiraiGo/binary"
-	"github.com/Mrs4s/MiraiGo/binary/jce"
-	"github.com/Mrs4s/MiraiGo/client/internal/network"
-	"github.com/Mrs4s/MiraiGo/client/pb"
-	"github.com/Mrs4s/MiraiGo/client/pb/msgtype0x210"
-	"github.com/Mrs4s/MiraiGo/client/pb/notify"
-	"github.com/Mrs4s/MiraiGo/internal/proto"
+	"github.com/TeaBoss-Developer/MiraiGo/binary"
+	"github.com/TeaBoss-Developer/MiraiGo/binary/jce"
+	"github.com/TeaBoss-Developer/MiraiGo/client/internal/network"
+	"github.com/TeaBoss-Developer/MiraiGo/client/pb"
+	"github.com/TeaBoss-Developer/MiraiGo/client/pb/msgtype0x210"
+	"github.com/TeaBoss-Developer/MiraiGo/client/pb/notify"
+	"github.com/TeaBoss-Developer/MiraiGo/internal/proto"
 )
 
 var msg0x210Decoders = map[int64]func(*QQClient, []byte) error{
